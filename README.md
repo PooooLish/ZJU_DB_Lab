@@ -1,3 +1,9 @@
+# ZJU DB LAB
+
+Zhejiang University 2023 **Database** Course Project
+
+**For school application only, infringement and code copying are strictly prohibited**
+
 # MiniSQL
 
 
